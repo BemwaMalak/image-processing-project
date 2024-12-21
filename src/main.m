@@ -1,4 +1,4 @@
-input_image = imread('../data/raw/test.jpeg');
+input_image = imread('../data/raw/sample_image.jpg');
 
 [processed_image] = preprocess_image(input_image);
 
